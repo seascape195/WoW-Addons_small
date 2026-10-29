@@ -1,5 +1,5 @@
 # RTS Quest Voice (RTSQuestVoice) v1.0.0
--  ((A custom curated list of addons has also been added to this attached to branch: 
+-  ((A custom curated list of addons has also been added and attached to its active branch: 
 "WoW-Forever-&-TBC-Anniversary-Addons-(Curated-list))"
 
 By C-scape. When you accept a quest you hear the quest-pickup sound and a Warcraft RTS peon saying **"Ready to work!"**. When you turn a quest in, the peon says **"Work complete!"**.
